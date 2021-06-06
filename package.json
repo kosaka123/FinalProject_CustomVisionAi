@@ -1,0 +1,24 @@
+{
+  "name": "finalproject_customvisionai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosaka123/FinalProject_CustomVisionAi.git"
+  },
+  "author": "OCK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosaka123/FinalProject_CustomVisionAi/issues"
+  },
+  "homepage": "https://github.com/kosaka123/FinalProject_CustomVisionAi#readme"
+}
